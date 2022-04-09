@@ -31,6 +31,8 @@ erd.write_to_file('output.txt')
 ```
 ![example image](example_erd.png "Title")
 
+Color names (e.g. "pink" and "skyblue" above) follow [standard 140 HTML named colors](https://www.w3schools.com/colors/colors_names.asp). 
+
 ### Credits
 Largely inspired by this fab [repo](https://github.com/ehne/ERDot)!
 * dot documentation can be found [here](https://www.graphviz.org/pdf/dotguide.pdf)
